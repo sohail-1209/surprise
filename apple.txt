@@ -1,0 +1,9 @@
+create a folder 
+git init - initialize 
+git config - user configuration 
+createe files - touch file names 
+git remote add origin repo_link
+git add .
+git commit -m "message"
+git push 
+
