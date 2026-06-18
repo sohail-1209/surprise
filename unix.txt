@@ -1,0 +1,8 @@
+sudo adduser username 
+su -d username
+sudo userdel username
+sudo usermod -aG grp_name username
+sudo gpasswd -d user_name grp_name
+sudo groupdel grpname
+cat /etc/group 
+cat /etc/passwd
