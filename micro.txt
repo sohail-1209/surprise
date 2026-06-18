@@ -1,0 +1,6 @@
+Branching commands 
+
+git branch branch_name - to create a branch 
+git checkout/switch branch_name - to switch a branch 
+git branch -m branch name - to change the name of current branch 
+git merge branch 
