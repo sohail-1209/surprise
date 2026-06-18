@@ -1,8 +1,13 @@
 sudo adduser username 
-su -d username
+su username - just switch
+su -username - along with directory
 sudo userdel username
 sudo usermod -aG grp_name username
 sudo gpasswd -d user_name grp_name
 sudo groupdel grpname
 cat /etc/group 
 cat /etc/passwd
+exit 
+whoami
+who
+

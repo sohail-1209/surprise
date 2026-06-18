@@ -4,3 +4,10 @@ git branch branch_name - to create a branch
 git checkout/switch branch_name - to switch a branch 
 git branch -m branch name - to change the name of current branch 
 git merge branch 
+git rebase branch_name 
+git branch -d branch_name 
+git branch -r 
+git reset --soft commit_id ->delletes the commit 
+git reset --hard commit_id ->delete the files too 
+git log --oneline 
+

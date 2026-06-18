@@ -1,6 +1,7 @@
 create a folder 
 git init - initialize 
-git config - user configuration 
+git config user.name name 
+git config user.email name@gmail.com
 createe files - touch file names 
 git remote add origin repo_link
 git add .
