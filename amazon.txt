@@ -1,0 +1,6 @@
+user management
+chmod permissions file namme
+two types 1. numerical and 2. alphabetical
+1. chmod 777 a.txt which is read,write and execute permision for the user,group,others read -4,write -2 ,execute -1 4+2+1 =7
+
+2. chmod user type + r/w/x  file name --- chmod u+rw a.txt   +-adding permissions , - removing ,= replacing
